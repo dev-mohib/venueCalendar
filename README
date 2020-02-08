@@ -1,0 +1,9 @@
+
+How to run
+----------
+
+npm install
+
+node tock.js 
+node resy.js
+node resdiary.js
